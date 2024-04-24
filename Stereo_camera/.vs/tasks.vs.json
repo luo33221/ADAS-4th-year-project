@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-measure_object_distance",
+      "appliesTo": "measure_object_distance.py",
+      "type": "launch"
+    }
+  ]
+}
